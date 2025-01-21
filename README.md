@@ -31,18 +31,18 @@ The **Social Media Content Analyzer** is a web application that enables users to
 
 ## Installation & Setup
 ### 1. Clone repository
-git clone https://github.com/GaurviNegi/Social-Media-Content-Analyzer.git
-cd projectDirectory
+- git clone https://github.com/GaurviNegi/Social-Media-Content-Analyzer.git
+- cd projectDirectory
 
 ### 2. Backend:
-cd backend
-npm install
-node index.js
+- cd backend
+- npm install
+- node index.js
 
 ### 3. Frontend:
-cd frontend
-npm install
-npm run dev 
+- cd frontend
+- npm install
+- npm run dev 
 
 
 
