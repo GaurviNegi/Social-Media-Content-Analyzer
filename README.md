@@ -45,7 +45,7 @@ The **Social Media Content Analyzer** is a web application that enables users to
 - npm run dev
 
 ## Deployment Link 
-[Link Text](https://smca-frontend.onrender.com/)
+[visit site](https://smca-frontend.onrender.com/)
 
 
 
